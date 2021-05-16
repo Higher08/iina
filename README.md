@@ -47,8 +47,10 @@
 	```
 
 	2. Open iina.xcodeproj in the [latest public version of Xcode](https://itunes.apple.com/us/app/xcode/id497799835). *IINA may not build if you use any other version.*
+	
+	3. Wait for SPM download all files
 
-	3. Build the project.
+	4. Build the project.
 
 	### Building mpv manually
 
